@@ -64,6 +64,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Main.cs" />
+    <Compile Include="Assets\Scripts\Ch.Abastract\BaseMonster.cs" />
+    <Compile Include="Assets\Scripts\Ch.Abastract\Goblin.cs" />
+    <Compile Include="Assets\Scripts\Ch.Abastract\Orc.cs" />
+    <Compile Include="Assets\Scripts\Ch.Abastract\Test.cs" />
     <Compile Include="Assets\Scripts\Ch.Interface\GoldItem.cs" />
     <Compile Include="Assets\Scripts\Ch.Interface\HealthKitItem.cs" />
     <Compile Include="Assets\Scripts\Ch.Interface\IItem.cs" />
